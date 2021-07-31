@@ -1,16 +1,13 @@
-### Hi there 👋
+## 👋🏾 Olá, eu sou a Márcia Simplício 🙋🏾‍♀️
 
-<!--
-**Marcia-Simplicio/Marcia-Simplicio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Atualmente estou estudando e realizando projetos, em busca da primeira oportunidade na área.
 
-Here are some ideas to get you started:
+• 💕estudando JavaScript 
+• ✨Estudando React.js 
+• 🦋Estudando TypeScript 
+• 🐬Estudando Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• 🥰 Pronomes: ela / dela
+
+#Márcia Simplício - Full Stack Web Developer 
+https://image.flaticon.com/icons/png/512/124/124011.png/https://www.linkedin.com/in/marcia-simplicio-0b88591a7/
