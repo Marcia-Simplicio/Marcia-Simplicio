@@ -10,4 +10,6 @@
 • 🥰 Pronomes: ela / dela
 
 #Márcia Simplício - Full Stack Web Developer 
-https://image.flaticon.com/icons/png/512/124/124011.png/https://www.linkedin.com/in/marcia-simplicio-0b88591a7/
+
+![image](https://user-images.githubusercontent.com/71258083/127753075-b10f1442-131c-45d5-af48-945f810e4091.png)
+https://www.linkedin.com/in/marcia-simplicio-0b88591a7/
