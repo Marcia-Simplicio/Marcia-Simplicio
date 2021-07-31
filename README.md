@@ -11,5 +11,4 @@
 
 #Márcia Simplício - Full Stack Web Developer 
 
-![image](https://user-images.githubusercontent.com/71258083/127753075-b10f1442-131c-45d5-af48-945f810e4091.png)
-https://www.linkedin.com/in/marcia-simplicio-0b88591a7/
+<div>Ícones feitos por <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a></div>https://www.linkedin.com/in/marcia-simplicio-0b88591a7/
