@@ -16,7 +16,6 @@
 ## Olá, Hello World! <br>
 Eu sou a Márcia Simplício 
  <div>
-  <a href=https://github.com/Marcia-Simplicio>
   <img height="200em" src="https://github.com/Marcia-Simplicio/commit/947676071dc5e1d399cefd572732176027b56623"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcia-Simplicio&layout=compact&langs_count=7&theme=dracula"/>
 </div>
