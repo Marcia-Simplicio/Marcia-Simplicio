@@ -13,9 +13,15 @@ Eu sou a Márcia Simplício 🙋🏾‍♀️
 
 • 🥰 Pronomes: ela / dela
 
-<br>
-
+ <div>
+  <a href="https://github.com/Marcia-Simplicio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcia-Simplicio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcia-Simplicio&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcia-Simplicio&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
 <div style="display: inline_block"><br>
+  
   <img align="center" alt="Marcia-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marcia-Ts" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Marcia-React" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
