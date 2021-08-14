@@ -1,4 +1,5 @@
-## 👋🏾 Olá, eu sou a Márcia Simplício 🙋🏾‍♀️
+## 👋🏾HELLO WORLD! 
+Eu sou a Márcia Simplício 🙋🏾‍♀️
 
 🔭 Atualmente estou estudando e realizando projetos, em busca da primeira oportunidade na área como Full Stack Developer Web.
 
@@ -12,9 +13,7 @@
 
 • 🥰 Pronomes: ela / dela
 
-
-## Olá, Hello World! <br>
-Eu sou a Márcia Simplício 
+<br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcia-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
