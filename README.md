@@ -26,7 +26,7 @@ Eu sou a Márcia Simplício 🙋🏾‍♀️
   <img align="center" alt="Marcia-React" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Marcia-HTML" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marcia-CSS" height=20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="" src="https://picrew.me/image_maker/338224">
+  <img align="right" alt="" src="">
 </div>
 
 ##
