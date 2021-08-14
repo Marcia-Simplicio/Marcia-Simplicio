@@ -1,17 +1,17 @@
 ## 👋🏾HELLO WORLD! 
-Eu sou a Márcia Simplício 🙋🏾‍♀️
+I'm Márcia Simplicio 🙋🏾‍♀️
 
-🔭 Atualmente estou estudando e realizando projetos, em busca da primeira oportunidade na área como Full Stack Developer Web.
+🔭 I'm currently studying and carrying out projects, looking for my first opportunity in the area as a Full Stack Developer Web.
 
-• 💕estudando JavaScript
+• 💕studying JavaScript
 
-• ✨Estudando React.js 
+• ✨Studying React.js
 
-• 🦋Estudando TypeScript 
+• 🦋Studying TypeScript
 
-• 🐬Estudando Node.js
+• 🐬Studying Node.js
 
-• 🥰 Pronomes: ela / dela
+• 🥰 Pronouns: she / her
 
  <div>
   <a href="https://github.com/Marcia-Simplicio">
