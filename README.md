@@ -4,7 +4,7 @@ I'm Márcia Simplicio 🙋🏾‍♀️
 My name is Márcia Simplício, I'm Brazilian, I live in Rio de Janeiro State, where I was born and grew up exactly 39 years ago.<br>
 In my free time I love to read everything and write my novels.<br>
 Before entering the technology area, I was in telemarketing and specifically, since 1995, when I had contact with a desktop for the first time, I fell in love and since then, 
-I have never lived without.<br>
+nunca parei de mexer. <br>
 Technology means the world to me as well as writing.<br>
 They are passions that I want to keep forever, that I can't live without.<br>
 Slowly discovering my potential in web development was more than a surprise to me, as I thought it would be easier because of my resilient and self-taught nature.<br>
