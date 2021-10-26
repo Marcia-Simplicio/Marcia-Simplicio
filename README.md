@@ -51,6 +51,7 @@ I thought I couldn't fall more in love and here I am every day more enchanted.
    
   
 ![Snake animation](https://github.com/Marcia-Simplicio/Marcia-Simplicio/blob/output/github-contribution-grid-snake.svg)
-   
+ 
 </div>
+
 
