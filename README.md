@@ -46,7 +46,7 @@ I thought I couldn't fall more in love and here I am every day more enchanted.
 
   ---
   <br>
-  ##**LIBRARIES AND FRAMEWORKS:**
+  ##LIBRARIES AND FRAMEWORKS:
 
 <div style="display: inline_block">
   <img align="center" alt="React" height="30" width="40" src="images/react.png">
@@ -61,7 +61,7 @@ I thought I couldn't fall more in love and here I am every day more enchanted.
 ---
 <br>
 
-##**DATA BASE THE SIMILAR :**
+##**DATA BASE THE SIMILAR:**
 <div style="display: inline_block">
 <img align="center" src="images/mariadb_logo_icon_168996.png" alt="MariaDb" height="30" width="40">
 <img align="center" src="images/MongoDb.jpg" alt="MongoDB" height="30" width="40">
@@ -75,7 +75,7 @@ I thought I couldn't fall more in love and here I am every day more enchanted.
 ---
 
 <br>
-##**OFFICE:**
+##OFFICE:
 <div style="display: inline_block">
 <img align="center" src="images/gitbash.png" alt="Gitbash" height="30" width="40">
 <img align="center" src="images/notion-github3.png" alt="GitHub" height="30" width="40">
@@ -94,7 +94,7 @@ I thought I couldn't fall more in love and here I am every day more enchanted.
 
 ---
 <br>
-##**IDE**
+##IDE
 
 <div>
 <img align="center" src="images/visual.jpg" alt="Visual Studio Code" height="30" width="40">
