@@ -5,7 +5,7 @@
 
 ---
 
-##**SOBRE MIM:**
+##**About Me:**
 
 My name is Márcia Simplício, I'm Brazilian, I live in Rio de Janeiro State, where I was born and grew up exactly 39 years ago.
 
@@ -46,7 +46,8 @@ I thought I couldn't fall more in love and here I am every day more enchanted.
 
   ---
   <br>
-##**BIBLIOTECAS E FRAMEWORKS:** 
+  ##**LIBRARIES AND FRAMEWORKS:**
+
 <div style="display: inline_block">
   <img align="center" alt="React" height="30" width="40" src="images/react.png">
   <img align="center" src="images/vue.js.png" alt="Vue" height="30" width="40">
@@ -74,7 +75,7 @@ I thought I couldn't fall more in love and here I am every day more enchanted.
 ---
 
 <br>
-##***OFFICE:***
+##**OFFICE:**
 <div style="display: inline_block">
 <img align="center" src="images/gitbash.png" alt="Gitbash" height="30" width="40">
 <img align="center" src="images/notion-github3.png" alt="GitHub" height="30" width="40">
@@ -93,7 +94,7 @@ I thought I couldn't fall more in love and here I am every day more enchanted.
 
 ---
 <br>
-##***IDE***
+##**IDE**
 
 <div>
 <img align="center" src="images/visual.jpg" alt="Visual Studio Code" height="30" width="40">
@@ -103,7 +104,7 @@ I thought I couldn't fall more in love and here I am every day more enchanted.
 ---
 <br>
 
-##***ONDE ME ENCONTRAR:***
+##***WHERE TO FIND ME:***
  
 <div style="display: inline_block"> 
 <a href="https://web.facebook.com/profile.php?id=100068662721115" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%23E4405F?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
