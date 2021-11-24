@@ -1,7 +1,7 @@
 # **Welcome, I'm Márcia Simplicio** 
 # ***Full Stack Web Developer***
 
-<img heigt="200%" width="200%" src="images/desenvolvimento-de-front-e-back-end-conceito-de-web-design-responsivo-com-pessoas-minusculas-conjunto-de-ilustracao-de-agencia-de-desenvolvimento-web-interface-do-site-codificacao-e-p.jpg" alt="Desenvolvedor Web">
+<img heigt="200%" width="200%" src="images/desenvolvimento.jpg" alt="Desenvolvedor Web">
 
 ---
 
