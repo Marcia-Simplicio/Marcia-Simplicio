@@ -1,4 +1,4 @@
-# **Welcome, I'm Márcia Simplicio** <img height="30%" width="30%" src="images/caricatura-Márcia.png">
+# **Welcome, I'm Márcia Simplicio** <img height="20%" width="30%" src="images/caricatura-Márcia.png">
 # ***Full Stack Web Developer***
 
 <img height="200%" width="200%" src="images/desenvolvimento.jpg" alt="Desenvolvedor Web">
