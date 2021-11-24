@@ -107,15 +107,9 @@ I thought I couldn't fall more in love and here I am every day more enchanted.
 ##***WHERE TO FIND ME:***
  
 <div style="display: inline_block"> 
-<a href="https://web.facebook.com/profile.php?id=100068662721115" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%23E4405F?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
- <a href="https://twitter.com/MarciaSimplic10" target="_blank"><img src="https://img.shields.io/badge/-twitter-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://www.twitch.tv/settings/profile" target="_blank"><img src="https://img.shields.io/badge/-twitch-%23E4405F?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://www.instagram.com/bigudinharainha" target="_blank"><img src="https://img.shields.io/badge/-Istagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
- <a href="https://www.linkedin.com/in/marcia-simplicio-0b88591a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="Márcia#2387" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-<a href = "mailto:marcia39.simplicio@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href = "mailto:marcia39.simplicio@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
+<a href="https://web.facebook.com/profile.php?id=100068662721115" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%23E4405F?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> <a href="https://twitter.com/MarciaSimplic10" target="_blank"><img src="https://img.shields.io/badge/-twitter-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.twitch.tv/settings/profile" target="_blank"><img src="https://img.shields.io/badge/-twitch-%23E4405F?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://www.instagram.com/bigudinharainha" target="_blank"><img src="https://img.shields.io/badge/-Istagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/marcia-simplicio-0b88591a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="Márcia#2387" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> </a> 
+<a href = "mailto:marcia39.simplicio@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href = "mailto:marcia39.simplicio@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
 
 
 
