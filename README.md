@@ -1,7 +1,7 @@
-# **Welcome, I'm Márcia Simplicio** <img height="20%" width="30%" src="images/caricatura-Márcia.png">
+# **Welcome, I'm Márcia Simplicio** <img height="10%" width="10%" src="images/caricatura-Márcia.png"> 
 # ***Full Stack Web Developer***
 
-<img height="200%" width="200%" src="images/desenvolvimento.jpg" alt="Desenvolvedor Web">
+<img height="100%" width="400%" src="images/notion-front-end.png" alt="Desenvolvedor Web">
 
 ---
 
@@ -103,8 +103,13 @@ I thought I couldn't fall more in love and here I am every day more enchanted.
 
 ---
 <br>
+##VOLUNTEERS:
 
-##***WHERE TO FIND ME:***
+<img height="10%" width="10%" src="images/Codivas.jpg">
+
+---
+<br>
+##WHERE TO FIND ME:
  
 <div style="display: inline_block"> 
 <a href="https://web.facebook.com/profile.php?id=100068662721115" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%23E4405F?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> <a href="https://twitter.com/MarciaSimplic10" target="_blank"><img src="https://img.shields.io/badge/-twitter-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.twitch.tv/settings/profile" target="_blank"><img src="https://img.shields.io/badge/-twitch-%23E4405F?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -138,4 +143,11 @@ I thought I couldn't fall more in love and here I am every day more enchanted.
 ---
 <br>
 <img height="10%" width="100%" src="images/gif programming.gif">
+<br>
+<br><br>
+
+
+
+
+
 
