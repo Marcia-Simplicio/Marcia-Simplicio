@@ -1,7 +1,7 @@
 <img height="200rem" width="200rem" src="images/caricatura-Márcia.png">   
 
 # **WELCOME, I'M MÁRCIA SIMPLÍCIO** 
-### ***Software Developer***
+### ***SOFTWARE DEVELOPER***
 
 <img height="350rem" width="2000rem" src="images/notion-front-end.png" alt="Desenvolvedor Web">
 
