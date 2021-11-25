@@ -1,7 +1,7 @@
 # **Welcome, I'm Márcia Simplicio** <img height="10%" width="10%" src="images/caricatura-Márcia.png"> 
 # ***Full Stack Web Developer***
 
-<img height="100%" width="400%" src="images/notion-front-end.png" alt="Desenvolvedor Web">
+<img height="600rem" width="2000rem" src="images/notion-front-end.png" alt="Desenvolvedor Web">
 
 ---
 
