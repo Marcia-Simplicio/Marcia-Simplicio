@@ -1,7 +1,9 @@
-# **Welcome, I'm Márcia Simplicio** <img height="10%" width="10%" src="images/caricatura-Márcia.png"> 
-# ***Full Stack Web Developer***
+<img height="200rem" width="200rem" src="images/caricatura-Márcia.png">   
 
-<img height="600rem" width="2000rem" src="images/notion-front-end.png" alt="Desenvolvedor Web">
+# **WELCOME, I'M MÁRCIA SIMPLÍCIO** 
+### ***Full Stack Web Developer***
+
+<img height="350rem" width="2000rem" src="images/notion-front-end.png" alt="Desenvolvedor Web">
 
 ---
 
@@ -105,7 +107,7 @@ I thought I couldn't fall more in love and here I am every day more enchanted.
 <br>
 ##VOLUNTEERS:
 
-<img height="10%" width="10%" src="images/Codivas.jpg">
+<img height="5%" width="5%" src="images/Codivas.jpg">
 
 ---
 <br>
