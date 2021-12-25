@@ -1,4 +1,4 @@
-<img height="200rem" width="200rem" src="images/caricatura-Márcia.png">   
+<img height="80rem" width="80rem" src="images/caricatura-Márcia.png">   
 
 # **WELCOME, I'M MÁRCIA SIMPLÍCIO** 
 ### ***SOFTWARE DEVELOPER***
