@@ -3,7 +3,7 @@
 # **WELCOME, I'M MÁRCIA SIMPLÍCIO** 
 ### ***SOFTWARE DEVELOPER***
 
-<img height="350rem" width="2000rem" src="images/notion-front-end.png" alt="Desenvolvedor Web">
+<img height="350rem" width="2000rem" src="images/Background - Márcia.png" alt="Desenvolvedor Web">
 
 ---
 
@@ -144,9 +144,8 @@ I thought I couldn't fall more in love and here I am every day more enchanted.
 
 ---
 <br>
-<img height="10%" width="100%" src="images/gif programming.gif">
-<br>
-<br><br>
+<img height="10%" width="100%" src="images/Gfycat.gif">
+<footer>GfyCat</footer>
 
 
 
