@@ -3,7 +3,7 @@
 # **WELCOME, I'M MÁRCIA SIMPLÍCIO** 
 ### ***SOFTWARE DEVELOPER***
 
-<img height="350rem" width="2000rem" src="images/Background - Márcia.png" alt="Desenvolvedor Web">
+<img height="200rem" width="2000rem" src="images/Background - Márcia.png" alt="Desenvolvedor Web">
 
 ---
 
