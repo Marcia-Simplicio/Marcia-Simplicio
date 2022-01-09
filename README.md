@@ -1,9 +1,13 @@
+<<<<<<< HEAD
 <img height="200rem" width="200rem" src="images/caricatura-Márcia.png"> <img src="images/—picscut—motion black lives matter human_MjIwODA0.png>  
+=======
+<img height="80rem" width="80rem" src="images/caricatura-Márcia.png">   
+>>>>>>> 599d569e87be96321e00f71d2c071ec1685e9788
 
 # **WELCOME, I'M MÁRCIA SIMPLÍCIO** 
 ### ***SOFTWARE DEVELOPER***
 
-<img height="350rem" width="2000rem" src="images/Background - Márcia.png" alt="Desenvolvedor Web">
+<img height="200rem" width="2000rem" src="images/Background - Márcia.png" alt="Desenvolvedor Web">
 
 ---
 
