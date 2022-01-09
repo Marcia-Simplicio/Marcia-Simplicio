@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-<img height="200rem" width="200rem" src="images/caricatura-Márcia.png"> <img src="images/—picscut—motion black lives matter human_MjIwODA0.png>  
-=======
-<img height="80rem" width="80rem" src="images/caricatura-Márcia.png">   
->>>>>>> 599d569e87be96321e00f71d2c071ec1685e9788
+<img height="200rem" width="200rem" src="images/caricatura-Márcia.png">  _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_    <img height="100rem" width="100rem" src="images/Ubuntu.jpg" alt="ubuntu">  
 
 # **WELCOME, I'M MÁRCIA SIMPLÍCIO** 
 ### ***SOFTWARE DEVELOPER***
