@@ -1,12 +1,12 @@
-<img height="200rem" width="200rem" src="images/caricatura-Márcia.png">  _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_    <img height="100rem" width="100rem" src="images/Ubuntu.jpg" alt="ubuntu">  
+   <img height="200rem" width="200rem" src="images/caricatura-Márcia.png">  _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_    <img height="100rem" width="100rem" src="images/Ubuntu.jpg" alt="ubuntu">        
 
 # **WELCOME, I'M MÁRCIA SIMPLÍCIO** 
+
 ### ***SOFTWARE DEVELOPER***
 
 <img height="200rem" width="2000rem" src="images/Background - Márcia.png" alt="Desenvolvedor Web">
 
 ---
-
 ##**About Me:**
 
 My name is Márcia Simplício, I'm Brazilian, I live in Rio de Janeiro State, where I was born and grew up exactly 39 years ago.
