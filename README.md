@@ -1,4 +1,4 @@
-<img height="200rem" width="200rem" src="images/caricatura-Márcia.png">   
+<img height="200rem" width="200rem" src="images/caricatura-Márcia.png"> <img src="images/—picscut—motion black lives matter human_MjIwODA0.png>  
 
 # **WELCOME, I'M MÁRCIA SIMPLÍCIO** 
 ### ***SOFTWARE DEVELOPER***
