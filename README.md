@@ -1,4 +1,4 @@
-   <img height="200rem" width="200rem" src="images/caricatura-Márcia.png">  _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_    <img height="100rem" width="100rem" src="images/Ubuntu.jpg" alt="ubuntu">        
+   <img height="200rem" width="200rem" src="images/caricatura-Márcia.png">  _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_                                                                                                                               <img height="100rem" width="100rem" src="images/Ubuntu.jpg" alt="ubuntu">        
 
 # **WELCOME, I'M MÁRCIA SIMPLÍCIO** 
 
@@ -7,32 +7,31 @@
 <img height="200rem" width="2000rem" src="images/Background - Márcia.png" alt="Desenvolvedor Web">
 
 ---
-##**About Me:**
+## Sobre mim:
 
-My name is Márcia Simplício, I'm Brazilian, I live in Rio de Janeiro State, where I was born and grew up exactly 39 years ago.
+Meu nome é Márcia Simplício, sou brasileira, moro no Estado do Rio de Janeiro, onde nasci e cresci há exatos 39 anos.
 
-In my free time I love to read everything and write my novels.
+No meu tempo livre adoro ler tudo e escrever meus romances.
 
-Before entering the technology area, I was in telemarketing and specifically, since 1995, when I had contact with a desktop for the first time, I fell in love and since then, 
-nunca parei de mexer. 
+Antes de entrar na área de tecnologia, eu estava em telemarketing e especificamente, desde 1995, quando tive contato com um desktop pela primeira vez, me apaixonei e desde então, nunca parei de mexer.
 
-Technology means the world to me as well as writing.
+A tecnologia significa o mundo para mim, assim como a escrita.
 
-They are passions that I want to keep forever, that I can't live without.
+São paixões que quero guardar para sempre, sem as quais não vivo.
 
-Slowly discovering my potential in web development was more than a surprise to me, as I thought it would be easier because of my resilient and self-taught nature.
+Descobrir lentamente meu potencial em desenvolvimento web foi mais do que uma surpresa para mim, pois pensei que seria mais fácil por causa da minha natureza resiliente e autodidata.
 
-I reset my brain several times, pointing out my deficiencies in the area and improving to be an excellent professional and I thank my determination, persistence, and perfectionism.
+Reinicializei meu cérebro várias vezes, apontando minhas deficiências na área e melhorando para ser um excelente profissional e agradeço minha determinação, persistência e perfeccionismo.
 
-Technology is magic to me and I love magic.
+A tecnologia é mágica para mim e eu amo mágica.
 
-I thought I couldn't fall more in love and here I am every day more enchanted. 
+Achei que não poderia me apaixonar mais e aqui estou cada dia mais encantada.
+
+🔭Atualmente estou estudando e realizando projetos, buscando minha primeira oportunidade na área como Desenvolvedor Web Full Stack.
+
+🥰Pronomes: ela/dela
 
 
-🔭 I'm currently studying and carrying out projects, looking for my first opportunity in the area as a Full Stack Developer Web.
-
- 🥰 Pronouns: she / her
- - - -
  <br>
 
  ##**LANGUAGES:** 
