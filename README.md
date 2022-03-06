@@ -1,4 +1,4 @@
-   <img height="200rem" width="200rem" src="images/caricatura-Márcia.png">  _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_                                                                                                                               <img height="100rem" width="100rem" src="images/Ubuntu.jpg" alt="ubuntu">        
+   <img height="200rem" width="200rem" src="images/caricatura-Márcia.png">  _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_                                                                                                                               
 
 # **WELCOME, I'M MÁRCIA SIMPLÍCIO** 
 
