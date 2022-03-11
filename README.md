@@ -1,12 +1,10 @@
-   <img height="200rem" width="200rem" src="images/caricatura-Márcia.png">  _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_                                                                                                                               
+                                                                                                                      
 
-# **WELCOME, I'M MÁRCIA SIMPLÍCIO** 
+# **WELCOME, I'M MÁRCIA SIMPLÍCIO**  - FULL STACK WEB DEVELOPER
 
-### ***SOFTWARE DEVELOPER***
+![image](https://user-images.githubusercontent.com/71258083/157956922-2b8835ed-8071-4f54-94f3-5ee6a57408b9.png)
 
-<img height="200rem" width="2000rem" src="images/Background - Márcia.png" alt="Desenvolvedor Web">
 
----
 ## Sobre mim:
 
 Meu nome é Márcia Simplício, sou brasileira, moro no Estado do Rio de Janeiro, onde nasci e cresci há exatos 39 anos.
@@ -34,14 +32,13 @@ Achei que não poderia me apaixonar mais e aqui estou cada dia mais encantada.
 
  <br>
 
- ##**LANGUAGES:** 
+ ##**FRONT-END:** 
  
- <div style="display: inline_block"><br> 
- <img align="center" alt="HTML" height="30" width="40" src="images/notion-html2.png">
-  <img align="center" alt="CSS" height="30" width="40" src="images/Css.png">
-  <img align="center" alt="JavaScript" height="30" width="40" src="images/notion-javascript2.png">
-<img align="center" src="images/SQL.jpg" alt="SQL" height="30" width="40">
-  </div>
+<div style="display: inline_block"><br> 
+   <img align="center" alt="HTML" height="30" width="40" src="images/notion-html2.png">
+   <img align="center" alt="CSS" height="30" width="40" src="images/Css.png">
+   <img align="center" alt="JavaScript" height="30" width="40" src="images/notion-javascript2.png">
+</div>
 
 <br>
 
@@ -50,44 +47,49 @@ Achei que não poderia me apaixonar mais e aqui estou cada dia mais encantada.
   ##LIBRARIES AND FRAMEWORKS:
 
 <div style="display: inline_block">
-  <img align="center" alt="React" height="30" width="40" src="images/react.png">
-  <img align="center" src="images/vue.js.png" alt="Vue" height="30" width="40">
-  <img align="center" src="images/jquery.png" alt="Vue" height="30" width="40">
-<img align="center" src="images/bootstrap2.png" alt="Bootstrap" height="30" width="40">
-<img align="center" src="images/materialize.png" alt="Materialize" height="30" width="40">
-  
+   <img align="center" alt="React" height="30" width="40" src="images/react.png">
+   <img align="center" src="images/vue.js.png" alt="Vue" height="30" width="40">
+   <img align="center" src="images/jquery.png" alt="Vue" height="30" width="40">
+   <img align="center" src="images/bootstrap2.png" alt="Bootstrap" height="30" width="40">
 </div>
 <br>
 
 ---
 <br>
 
-##**DATA BASE THE SIMILAR:**
+##**BACKEND:**
 <div style="display: inline_block">
-<img align="center" src="images/mariadb_logo_icon_168996.png" alt="MariaDb" height="30" width="40">
-<img align="center" src="images/MongoDb.jpg" alt="MongoDB" height="30" width="40">
-<img align="center" src="images/Mysql.png" alt="Mysql" height="30" width="40">
-<img align="center" src="images/json.png" alt="Json" height="30" width="40">
-<img align="center" src="images/NPM.png" alt="NPM" height="30" width="40">
-<img align="center" src="images/SEO.jpg" alt="SEO" height="30" width="40">
+   <img align="center" src="icon-library.com/icon/nodejs-icon-17.html.html" alt="Node.js" height="30" width="40">
+   python
+ </div>
+ 
+ ##**BACKEND-FRAMEWORKS:**
+ django
 
+
+
+##**DATABASES:**
+<div style="display: inline_block">
+   <img align="center" src="images/MongoDb.jpg" alt="MongoDB" height="30" width="40">
+   <img align="center" src="images/SQL.jpg" alt="SQL" height="30" width="40">
+   <img align="center" src="images/Mysql.png" alt="Mysql" height="30" width="40">
 </div>
 
 ---
 
 <br>
-##OFFICE:
+##**TOOLS:**
 <div style="display: inline_block">
-<img align="center" src="images/gitbash.png" alt="Gitbash" height="30" width="40">
-<img align="center" src="images/notion-github3.png" alt="GitHub" height="30" width="40">
-<img align="center" src="images/slack.png" alt="Slack" height="30" width="40">
-<img align="center" src="images/trello.png" alt="Trello" height="30" width="40">
-<img align="center" src="images/notion.png" alt="Notion" height="30" width="40">
-<img align="center" src="images/download.jpg" alt="Evernote" height="30" width="40">
-<img align="center" src="images/word.png" alt="Word" height="30" width="40">
-<img align="center" src="images/excel.png" alt="Excel" height="30" width="40">
-<img align="center" src="images/figma.png" alt="Figma" height="30" width="40">
-<img align="center" src="images/metodologia agil.png" alt="Metodologias ágeis" height="30" width="40">
+   <img align="center" src="images/gitbash.png" alt="Gitbash" height="30" width="40">
+   <img align="center" src="images/notion-github3.png" alt="GitHub" height="30" width="40">
+   <img align="center" src="images/slack.png" alt="Slack" height="30" width="40">
+   <img align="center" src="images/trello.png" alt="Trello" height="30" width="40">
+   <img align="center" src="images/notion.png" alt="Notion" height="30" width="40">
+   <img align="center" src="images/download.jpg" alt="Evernote" height="30" width="40">
+   <img align="center" src="images/word.png" alt="Word" height="30" width="40">
+   <img align="center" src="images/excel.png" alt="Excel" height="30" width="40">
+   <img align="center" src="images/figma.png" alt="Figma" height="30" width="40">
+   <img align="center" src="images/metodologia agil.png" alt="Metodologias ágeis" height="30" width="40">
 </div>
 
 
@@ -104,13 +106,13 @@ Achei que não poderia me apaixonar mais e aqui estou cada dia mais encantada.
 
 ---
 <br>
-##VOLUNTEERS:
+##**VOLUNTEERS:**
 
-<img height="5%" width="5%" src="images/Codivas.jpg">
+<img height="10%" width="10%" src="images/Codivas.jpg">
 
 ---
 <br>
-##WHERE TO FIND ME:
+##**WHERE TO FIND ME:**
  
 <div style="display: inline_block"> 
 <a href="https://web.facebook.com/profile.php?id=100068662721115" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%23E4405F?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> <a href="https://twitter.com/MarciaSimplic10" target="_blank"><img src="https://img.shields.io/badge/-twitter-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.twitch.tv/settings/profile" target="_blank"><img src="https://img.shields.io/badge/-twitch-%23E4405F?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
