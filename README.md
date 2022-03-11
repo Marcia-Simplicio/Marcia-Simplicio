@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/71258083/157956922-2b8835ed-8071-4f54-94f3-5ee6a57408b9.png)
 
 
-## Sobre mim:
+##<strong>SOBRE MIM</strong>
 
 Meu nome é Márcia Simplício, sou brasileira, moro no Estado do Rio de Janeiro, onde nasci e cresci há exatos 39 anos.
 
@@ -25,7 +25,7 @@ A tecnologia é mágica para mim e eu amo mágica.
 
 Achei que não poderia me apaixonar mais e aqui estou cada dia mais encantada.
 
-🔭Atualmente estou estudando e realizando projetos, buscando minha primeira oportunidade na área como Desenvolvedor Web Full Stack.
+🔭Atualmente faço treinamento intensivo de Front-End com alguns projetos pessoais em andamento. Também estou em busca da minha primeira oportunidade na área como Desenvolvedora Web Full Stack.
 
 🥰Pronomes: ela/dela
 
@@ -33,18 +33,17 @@ Achei que não poderia me apaixonar mais e aqui estou cada dia mais encantada.
  <br>
 
  ##**FRONT-END:** 
- 
 <div style="display: inline_block"><br> 
    <img align="center" alt="HTML" height="30" width="40" src="images/notion-html2.png">
    <img align="center" alt="CSS" height="30" width="40" src="images/Css.png">
    <img align="center" alt="JavaScript" height="30" width="40" src="images/notion-javascript2.png">
 </div>
-
 <br>
 
   ---
   <br>
-  ##LIBRARIES AND FRAMEWORKS:
+
+  ##**LIBRARIES AND FRAMEWORKS:**
 
 <div style="display: inline_block">
    <img align="center" alt="React" height="30" width="40" src="images/react.png">
@@ -59,16 +58,27 @@ Achei que não poderia me apaixonar mais e aqui estou cada dia mais encantada.
 
 ##**BACKEND:**
 <div style="display: inline_block">
-   <img align="center" src="icon-library.com/icon/nodejs-icon-17.html.html" alt="Node.js" height="30" width="40">
-   python
+   <img align="center" src="./images/nodejs-icon-17.jpg" alt="Node.js" height="30" width="40">
+   <img align="center" src="./images/python.jpg" alt="Python" height="30" width="40">  
  </div>
- 
+ <br>
+
+ ---
+
+ <br>
+
  ##**BACKEND-FRAMEWORKS:**
- django
+ <div style="display: inline_block">
+  <img align="center" src="./images/django.png" alt="Django" height="30" width="40">
+ </div>
 
+ <br>
 
+ ---
 
-##**DATABASES:**
+<br>
+##<strong>DATABASES:</strong>
+
 <div style="display: inline_block">
    <img align="center" src="images/MongoDb.jpg" alt="MongoDB" height="30" width="40">
    <img align="center" src="images/SQL.jpg" alt="SQL" height="30" width="40">
@@ -78,7 +88,7 @@ Achei que não poderia me apaixonar mais e aqui estou cada dia mais encantada.
 ---
 
 <br>
-##**TOOLS:**
+##<strong>TOOLS:</strong>
 <div style="display: inline_block">
    <img align="center" src="images/gitbash.png" alt="Gitbash" height="30" width="40">
    <img align="center" src="images/notion-github3.png" alt="GitHub" height="30" width="40">
@@ -97,7 +107,7 @@ Achei que não poderia me apaixonar mais e aqui estou cada dia mais encantada.
 
 ---
 <br>
-##IDE
+##<strong>IDE</strong>
 
 <div>
 <img align="center" src="images/visual.jpg" alt="Visual Studio Code" height="30" width="40">
@@ -106,13 +116,13 @@ Achei que não poderia me apaixonar mais e aqui estou cada dia mais encantada.
 
 ---
 <br>
-##**VOLUNTEERS:**
+##<strong>VOLUNTEERS:</strong>
 
-<img height="10%" width="10%" src="images/Codivas.jpg">
+<img height="6%" width="6%" src="images/Codivas.jpg">
 
 ---
 <br>
-##**WHERE TO FIND ME:**
+##<strong>WHERE TO FIND ME:</strong>
  
 <div style="display: inline_block"> 
 <a href="https://web.facebook.com/profile.php?id=100068662721115" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%23E4405F?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> <a href="https://twitter.com/MarciaSimplic10" target="_blank"><img src="https://img.shields.io/badge/-twitter-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.twitch.tv/settings/profile" target="_blank"><img src="https://img.shields.io/badge/-twitch-%23E4405F?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -145,8 +155,15 @@ Achei que não poderia me apaixonar mais e aqui estou cada dia mais encantada.
 
 ---
 <br>
-<img height="10%" width="100%" src="images/Gfycat.gif">
-<footer>GfyCat</footer>
+<div>
+  <img height="20%" width="20%" src="./images/caricatura-Márcia.png">
+  <img height="20%" width="20%" src="./images/1dc56bb6f7b4d517124ce034ce81aab0.gif">
+  <img height="20%" width="20%" src="./images/FullStck.jpg">
+  <img height="20%" width="20%" src="./images/giphy-inteligencia-artificial.gif">
+  <img height="20%" width="20%" src="./images/photo-1547082299-de196ea013d6.jpg">
+  <img height="20%" width="20%" src="./images/photo-1591370874773-6702e8f12fd8.jpg">
+  <img height="20%" width="20%" src="./images/Ubuntu.jpg">
+</div>
 
 
 
