@@ -128,6 +128,7 @@ Achei que não poderia me apaixonar mais e aqui estou cada dia mais encantada.
 <a href="https://web.facebook.com/profile.php?id=100068662721115" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%23E4405F?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> <a href="https://twitter.com/MarciaSimplic10" target="_blank"><img src="https://img.shields.io/badge/-twitter-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.twitch.tv/settings/profile" target="_blank"><img src="https://img.shields.io/badge/-twitch-%23E4405F?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://www.instagram.com/bigudinharainha" target="_blank"><img src="https://img.shields.io/badge/-Istagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/marcia-simplicio-0b88591a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="Márcia#2387" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> </a> 
 <a href = "mailto:marcia39.simplicio@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href = "mailto:marcia39.simplicio@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
+ </div>
 
 
 
@@ -156,16 +157,20 @@ Achei que não poderia me apaixonar mais e aqui estou cada dia mais encantada.
 ---
 <br>
 <div>
-  <img height="20%" width="20%" src="./images/caricatura-Márcia.png">
-  <img height="20%" width="20%" src="./images/1dc56bb6f7b4d517124ce034ce81aab0.gif">
-  <img height="20%" width="20%" src="./images/FullStck.jpg">
-  <img height="20%" width="20%" src="./images/giphy-inteligencia-artificial.gif">
-  <img height="20%" width="20%" src="./images/photo-1547082299-de196ea013d6.jpg">
-  <img height="20%" width="20%" src="./images/photo-1591370874773-6702e8f12fd8.jpg">
-  <img height="20%" width="20%" src="./images/Ubuntu.jpg">
+  <img height="100%" width="100%" src="./images/1dc56bb6f7b4d517124ce034ce81aab0.gif">
 </div>
 
+  <div>
+    <img height="100%" width="100%" src="./images/FullStck.jpg">
+  </div>
 
+  <div> 
+    <img height="100%" width="100%" src="./images/photo-1591370874773-6702e8f12fd8.jpg">
+  </div>
+  
+  <div style="display: inline">
+    <img height="20%" width="20%" src="./images/caricatura-Márcia.png">   &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="20%" width="20%" src="./images/Ubuntu.jpg"> 
+  </div>
 
 
 
