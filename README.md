@@ -24,67 +24,37 @@ A tecnologia é mágica para mim e eu amo mágica.
 
 Achei que não poderia me apaixonar mais e aqui estou cada dia mais encantada.
 
-🔭Atualmente faço treinamento intensivo de Front-End com alguns projetos pessoais em andamento. Também estou em busca da minha primeira oportunidade na área como Desenvolvedora Web Full Stack.
+🔭Atualmente faço treinamento intensivo de Back-end com alguns projetos pessoais em andamento. Também estou em busca da minha primeira oportunidade na área como Desenvolvedora Back-end Node.
 
 🥰Pronomes: ela/dela
 
 
  <br>
 
- ##**FRONT-END:** 
+ ##**TECNOLOGIAS FRONT-END:** 
 <div style="display: inline_block"><br> 
    <img align="center" alt="HTML" height="30" width="40" src="images/notion-html2.png">
    <img align="center" alt="CSS" height="30" width="40" src="images/Css.png">
    <img align="center" alt="JavaScript" height="30" width="40" src="images/notion-javascript2.png">
-</div>
-<br>
-
-  ---
-  <br>
-
-  ##**LIBRARIES AND FRAMEWORKS:**
-
-<div style="display: inline_block">
    <img align="center" alt="React" height="30" width="40" src="images/react.png">
-   <img align="center" src="images/vue.js.png" alt="Vue" height="30" width="40">
-   <img align="center" src="images/jquery.png" alt="Vue" height="30" width="40">
    <img align="center" src="images/bootstrap2.png" alt="Bootstrap" height="30" width="40">
 </div>
 <br>
 
----
+  ---
 <br>
 
-##**BACKEND:**
+##**TECNOLOGIAS BACKEND:**
 <div style="display: inline_block">
    <img align="center" src="./images/nodejs-icon-17.jpg" alt="Node.js" height="30" width="40">
-   <img align="center" src="./images/python.jpg" alt="Python" height="30" width="40">  
- </div>
- <br>
-
- ---
-
- <br>
-
- ##**BACKEND-FRAMEWORKS:**
- <div style="display: inline_block">
-  <img align="center" src="./images/django.png" alt="Django" height="30" width="40">
- </div>
-
- <br>
-
- ---
-
-<br>
-##<strong>DATABASES:</strong>
-
-<div style="display: inline_block">
-   <img align="center" src="images/MongoDb.jpg" alt="MongoDB" height="30" width="40">
+    <img align="center" src="./images/django.png" alt="Django" height="30" width="40">
+    <img align="center" src="images/MongoDb.jpg" alt="MongoDB" height="30" width="40">
    <img align="center" src="images/SQL.jpg" alt="SQL" height="30" width="40">
    <img align="center" src="images/Mysql.png" alt="Mysql" height="30" width="40">
-</div>
+ </div>
+ <br>
 
----
+ ---
 
 <br>
 ##<strong>TOOLS:</strong>
