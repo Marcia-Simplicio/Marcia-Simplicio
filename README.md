@@ -6,7 +6,7 @@
 
 ##<strong>SOBRE MIM</strong>
 
-Meu nome é Márcia Simplício, sou brasileira, moro no Estado do Rio de Janeiro, onde nasci e cresci há exatos 39 anos.
+Meu nome é Márcia Simplício, sou brasileira, moro no Estado do Rio de Janeiro, onde nasci e cresci.
 
 No meu tempo livre adoro ler tudo e escrever meus romances.
 
