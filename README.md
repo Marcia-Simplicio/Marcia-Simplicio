@@ -18,13 +18,13 @@ São paixões que quero guardar para sempre, sem as quais não vivo.
 
 Descobrir lentamente meu potencial em desenvolvimento web foi mais do que uma surpresa para mim, pois pensei que seria mais fácil por causa da minha natureza resiliente e autodidata.
 
-Reinicializei meu cérebro várias vezes, apontando minhas deficiências na área e melhorando para ser um excelente profissional e agradeço minha determinação, persistência e perfeccionismo.
+Reiniciei meu cérebro várias vezes, apontando minhas deficiências na área e melhorando para ser um excelente profissional e agradeço minha determinação, persistência e perfeccionismo.
 
 A tecnologia é mágica para mim e eu amo mágica.
 
 Achei que não poderia me apaixonar mais e aqui estou cada dia mais encantada.
 
-🔭Atualmente faço treinamento intensivo de Back-end com alguns projetos pessoais em andamento. Também estou em busca da minha primeira oportunidade na área como Desenvolvedora Back-end Node.
+🔭Atualmente faço treinamento intensivo de Back-end com alguns projetos pessoais em andamento. Também estou em busca da minha primeira oportunidade na área como Desenvolvedora Back-end.
 
 🥰Pronomes: ela/dela
 
@@ -37,7 +37,6 @@ Achei que não poderia me apaixonar mais e aqui estou cada dia mais encantada.
    <img align="center" alt="CSS" height="30" width="40" src="images/Css.png">
    <img align="center" alt="JavaScript" height="30" width="40" src="images/notion-javascript2.png">
    <img align="center" alt="React" height="30" width="40" src="images/react.png">
-   <img align="center" src="images/bootstrap2.png" alt="Bootstrap" height="30" width="40">
 </div>
 <br>
 
@@ -47,9 +46,7 @@ Achei que não poderia me apaixonar mais e aqui estou cada dia mais encantada.
 ##**TECNOLOGIAS BACKEND:**
 <div style="display: inline_block">
    <img align="center" src="./images/nodejs-icon-17.jpg" alt="Node.js" height="30" width="40">
-    <img align="center" src="./images/django.png" alt="Django" height="30" width="40">
-    <img align="center" src="images/MongoDb.jpg" alt="MongoDB" height="30" width="40">
-   <img align="center" src="images/SQL.jpg" alt="SQL" height="30" width="40">
+   <img align="center" src="images/MongoDb.jpg" alt="MongoDB" height="30" width="40">
    <img align="center" src="images/Mysql.png" alt="Mysql" height="30" width="40">
  </div>
  <br>
