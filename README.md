@@ -31,29 +31,20 @@ Achei que não poderia me apaixonar mais e aqui estou cada dia mais encantada.
 
  <br>
 
- ##**TECNOLOGIAS FRONT-END:** 
+ ##**TECHNOLOGIES:** 
 <div style="display: inline_block"><br> 
    <img align="center" alt="HTML" height="30" width="40" src="images/notion-html2.png">
    <img align="center" alt="CSS" height="30" width="40" src="images/Css.png">
    <img align="center" alt="JavaScript" height="30" width="40" src="images/notion-javascript2.png">
-   <img align="center" alt="React" height="30" width="40" src="images/react.png">
+   <img align="center" src="./images/nodejs-icon-17.jpg" alt="Node.js" height="30" width="40">
+   <img align="center" src="images/MongoDb.jpg" alt="MongoDB" height="30" width="40">
+   <img align="center" src="images/Mysql.png" alt="Mysql" height="30" width="40">  
 </div>
 <br>
 
   ---
 <br>
 
-##**TECNOLOGIAS BACKEND:**
-<div style="display: inline_block">
-   <img align="center" src="./images/nodejs-icon-17.jpg" alt="Node.js" height="30" width="40">
-   <img align="center" src="images/MongoDb.jpg" alt="MongoDB" height="30" width="40">
-   <img align="center" src="images/Mysql.png" alt="Mysql" height="30" width="40">
- </div>
- <br>
-
- ---
-
-<br>
 ##<strong>TOOLS:</strong>
 <div style="display: inline_block">
    <img align="center" src="images/gitbash.png" alt="Gitbash" height="30" width="40">
