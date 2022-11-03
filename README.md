@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/71258083/157956922-2b8835ed-8071-4f54-94f3-5ee6a57408b9.png)
 
 
-## * Sobre Mim
+## * [Sobre Mim](https://placehold.it/15/#000080/000000?text=+)
 
 Meu nome é Márcia Simplício, sou brasileira, moro no Estado do Rio de Janeiro, onde nasci e cresci.
 
@@ -31,7 +31,7 @@ Achei que não poderia me apaixonar mais e aqui estou cada dia mais encantada.
 
  <br>
 
- ##**TECHNOLOGIES:** 
+ ## * [Tecnologias](https://placehold.it/15/#000080/000000?text=+)
 <div style="display: inline_block"><br> 
    <img align="center" alt="HTML" height="30" width="40" src="images/notion-html2.png">
    <img align="center" alt="CSS" height="30" width="40" src="images/Css.png">
@@ -45,7 +45,7 @@ Achei que não poderia me apaixonar mais e aqui estou cada dia mais encantada.
   ---
 <br>
 
-##<strong>TOOLS:</strong>
+ ## * [Ferramentas](https://placehold.it/15/#000080/000000?text=+)
 <div style="display: inline_block">
    <img align="center" src="images/gitbash.png" alt="Gitbash" height="30" width="40">
    <img align="center" src="images/notion-github3.png" alt="GitHub" height="30" width="40">
