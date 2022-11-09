@@ -120,7 +120,7 @@ Achei que não poderia me apaixonar mais e aqui estou cada dia mais encantada.
   </div>
 
   <div> 
-    <img height="100% width="1"00%  s"=rc
+    <img height="100% width="100%"  src=" ">
  </div>
   
   <div style="display: inline">
