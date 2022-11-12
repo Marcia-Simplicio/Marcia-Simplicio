@@ -23,7 +23,7 @@ Achei que não poderia me apaixonar mais e aqui estou cada dia mais encantada.
 
 🔭Atualmente faço treinamento intensivo de Back-end com alguns projetos pessoais em andamento. Também estou em busca da minha primeira oportunidade na área como Desenvolvedora Back-end.
 
-🥰Pronomes: ela/dela
+👩🏽‍🦱Pronomes: ela/dela
 
 
  <br>
