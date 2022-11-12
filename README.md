@@ -1,24 +1,22 @@
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
 # **WELCOME, I'M MÁRCIA SIMPLÍCIO - DEVELOPER BACK-END**
 
-![image](https://user-images.githubusercontent.com/71258083/157956922-2b8835ed-8071-4f54-94f3-5ee6a57408b9.png)
+![image](./images/Backgroun-Back.png) 
 
 
 ## * [Sobre Mim](https://placehold.it/15/#000080/000000?text=+)
 
 Meu nome é Márcia Simplício, sou brasileira, moro no Estado do Rio de Janeiro, onde nasci e cresci.
 
-No meu tempo livre adoro ler tudo e escrever meus romances.
+No meu tempo livre adoro ler sobre tudo e escrever meus romances.
 
-Antes de entrar na área de tecnologia, eu estava em telemarketing e especificamente, desde 1995, quando tive contato com um desktop pela primeira vez, me apaixonei e desde então, nunca parei de mexer.
+Antes de entrar na área de tecnologia, eu estava no telemarketing e especificamente, desde 1995, quando tive contato com um desktop pela primeira vez, me apaixonei e desde então, nunca mais parei de mexer.
 
-A tecnologia significa o mundo para mim, assim como a escrita.
-
-São paixões que quero guardar para sempre, sem as quais não vivo.
+A tecnologia significa o mundo para mim, assim como a escrita, sem os quais não vivo.
 
 Descobrir lentamente meu potencial em desenvolvimento web foi mais do que uma surpresa para mim, pois pensei que seria mais fácil por causa da minha natureza resiliente e autodidata.
 
-Reiniciei meu cérebro várias vezes, apontando minhas deficiências na área e melhorando para ser um excelente profissional e agradeço minha determinação, persistência e perfeccionismo.
+Reiniciei meu cérebro várias vezes, apontando minhas deficiências na área e melhorando para ser um excelente profissional e agradeço minha determinação, persistência e perfeccionismo, principalmente em focar 10 vezes mais na stack na qual me identifico.
 
 A tecnologia é mágica para mim e eu amo mágica.
 
@@ -64,7 +62,8 @@ Achei que não poderia me apaixonar mais e aqui estou cada dia mais encantada.
 
 ---
 <br>
-##<strong>IDE</strong>
+
+ ## * [IDE](https://placehold.it/15/#000080/000000?text=+)
 
 <div>
 <img align="center" src="images/visual.jpg" alt="Visual Studio Code" height="30" width="40">
@@ -73,13 +72,15 @@ Achei que não poderia me apaixonar mais e aqui estou cada dia mais encantada.
 
 ---
 <br>
-##<strong>VOLUNTEERS:</strong>
+
+ ## * [Voluntariado](https://placehold.it/15/#000080/000000?text=+)
 
 <img height="6%" width="6%" src="images/Codivas.jpg">
 
 ---
 <br>
-##<strong>WHERE TO FIND ME:</strong>
+
+ ## * [Onde Me Encontrar](https://placehold.it/15/#000080/000000?text=+)
  
 <div style="display: inline_block"> 
 <a href="https://web.facebook.com/profile.php?id=100068662721115" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%23E4405F?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> <a href="https://twitter.com/MarciaSimplic10" target="_blank"><img src="https://img.shields.io/badge/-twitter-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.twitch.tv/settings/profile" target="_blank"><img src="https://img.shields.io/badge/-twitch-%23E4405F?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -113,11 +114,28 @@ Achei que não poderia me apaixonar mais e aqui estou cada dia mais encantada.
 
 ---
 <br>
+
 <div>
-  <img height="100%" width="100%" src="./images/1dc56bb6f7b4d517124ce034ce81aab0.gif">
+  <img  height="100%" width="100%" src="./images/notion-backend2.jpeg">
 </div>
 
-  </div>
+<br>
+
+<div>
+  <img  height="100%" width="100%" src="./images/Gif animado.gif">
+</div>
+
+<br>
+
+<div>
+  <img height="100%" width="100%" src="./images/giphy-inteligencia-artificial.gif">
+</div>
+
+  <div>
+  <img  height="100%" width="100%" src="./images/hmm.gif">
+</div>
+
+<br>
 
   <div> 
     <img height="100% width="100%"  src=" ">
