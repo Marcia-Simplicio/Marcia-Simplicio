@@ -1,7 +1,7 @@
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
 # **WELCOME, I'M MÁRCIA SIMPLÍCIO - DEVELOPER BACK-END**
 
-<img src="./images/Backgroun-Back.png" width="2000" height="250">
+<img src="./images/Backgroun-Back.png" width="2000" height="200">
 
 ## * [Sobre Mim](https://placehold.it/15/#000080/000000?text=+)
 
