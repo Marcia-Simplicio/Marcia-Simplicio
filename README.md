@@ -72,9 +72,11 @@ Achei que não poderia me apaixonar mais e aqui estou cada dia mais encantada.
 ---
 <br>
 
- ## * [Voluntariado](https://placehold.it/15/#000080/000000?text=+)
+ ## * [Freelas](https://placehold.it/15/#000080/000000?text=+) 
 
-<img height="6%" width="6%" src="images/Codivas.jpg">
+<img height="6%" width="6%" src="images/Codivas.jpg"> <img height="16%" width="16%" src="https://user-images.githubusercontent.com/71258083/208176236-2f70340c-2ee5-48a7-a57d-94bfee606e5f.png">
+
+
 
 ---
 <br>
