@@ -3,7 +3,7 @@
 
 <img src="./images/Backgroun-Back.png" width="2000" height="200">
 
-## * [Sobre Mim](https://placehold.it/15/#000080/000000?text=+)
+## * [About Me](https://placehold.it/15/#000080/000000?text=+)
 
 Meu nome é Márcia Simplício, sou brasileira, moro no Estado do Rio de Janeiro, onde nasci e cresci.
 
@@ -13,20 +13,41 @@ Antes de entrar na área de tecnologia, eu estava no telemarketing e especificam
 
 A tecnologia significa o mundo para mim, assim como a escrita, sem os quais não vivo.
 
-
- 🔭 Atualmente estou trabalhando em ...
-
-🌱 Atualmente estou aprendendo ...
-
-👯 Estou procurando colaborar em ...
-
-🤔 Estou procurando ajuda com ...
-
-💬 Pergunte-me sobre ...
+ <br>
 
 
-⚡ Curiosidade: ...
+ 🔭 Atualmente estou  **fazendo freela na empresa Save In Cloud**
+ 
+ <br>
 
+🌱 Atualmente estou  **fazendo treinamento de Node.js**
+
+ <br>
+
+🔭 Atualmente estou  **fazendo treinamento de Inglês**
+
+ <br>
+
+🌱 Atualmente estou  **no 1º período de Análise de Desenvolvimento de Sistemas**
+
+ <br>
+
+👯 Estou procurando colaborar em  **projetos open source ligados ao back-end para pegar mais experiência**
+
+ <br>
+
+🤔 Estou procurando ajuda com  **mentorias de back-end**
+
+ <br>
+
+💬 Pergunte-me sobre  **programação**
+
+ <br>
+
+
+⚡ Curiosidade:  **Meu desejo é trabalhar com o back-end na nuvem (cloud) e surgiu uma oportunidade de fazer freela justamnente com o runtime que estou estudando, o node.js**
+
+ <br>
 
 
 👩🏽‍🦱Pronomes: ela/dela
@@ -34,7 +55,35 @@ A tecnologia significa o mundo para mim, assim como a escrita, sem os quais não
 
  <br>
 
- ## * [Tecnologias](https://placehold.it/15/#000080/000000?text=+)
+
+ ## * [Freelas](https://placehold.it/15/#000080/000000?text=+) 
+ 
+ <div style="display: inline_block"><br> 
+    <img align="center" height="6%" width="6%" src="images/Codivas.jpg"> 
+    <img align="center" height="16%" width="16%" src="https://user-images.githubusercontent.com/71258083/208176236-2f70340c-2ee5-48a7-a57d-94bfee606e5f.png">
+  </div>
+
+ <br>
+ 
+ ---
+ 
+ <br>
+
+ 
+ ## * [IDE](https://placehold.it/15/#000080/000000?text=+)
+
+<div>
+<img align="center" src="images/visual.jpg" alt="Visual Studio Code" height="30" width="40">
+</div>
+
+<br>
+
+---
+
+<br>
+
+
+ ## * [Technologies](https://placehold.it/15/#000080/000000?text=+)
 <div style="display: inline_block"><br> 
    <img align="center" alt="HTML" height="30" width="40" src="images/notion-html2.png">
    <img align="center" alt="CSS" height="30" width="40" src="images/Css.png">
@@ -43,12 +92,15 @@ A tecnologia significa o mundo para mim, assim como a escrita, sem os quais não
    <img align="center" src="images/MongoDb.jpg" alt="MongoDB" height="30" width="40">
    <img align="center" src="images/Mysql.png" alt="Mysql" height="30" width="40">  
 </div>
+
 <br>
 
   ---
+  
 <br>
 
- ## * [Ferramentas](https://placehold.it/15/#000080/000000?text=+)
+
+ ## * [Tools](https://placehold.it/15/#000080/000000?text=+)
 <div style="display: inline_block">
    <img align="center" src="images/gitbash.png" alt="Gitbash" height="30" width="40">
    <img align="center" src="images/notion-github3.png" alt="GitHub" height="30" width="40">
@@ -66,28 +118,11 @@ A tecnologia significa o mundo para mim, assim como a escrita, sem os quais não
 <br>
 
 ---
+
 <br>
 
- ## * [IDE](https://placehold.it/15/#000080/000000?text=+)
 
-<div>
-<img align="center" src="images/visual.jpg" alt="Visual Studio Code" height="30" width="40">
-</div>
-
-
----
-<br>
-
- ## * [Freelas](https://placehold.it/15/#000080/000000?text=+) 
-
-<img height="6%" width="6%" src="images/Codivas.jpg"> <img height="16%" width="16%" src="https://user-images.githubusercontent.com/71258083/208176236-2f70340c-2ee5-48a7-a57d-94bfee606e5f.png">
-
-
-
----
-<br>
-
- ## * [Onde Me Encontrar](https://placehold.it/15/#000080/000000?text=+)
+ ## * [Where To Find Me](https://placehold.it/15/#000080/000000?text=+)
  
 <div style="display: inline_block"> 
 <a href="https://web.facebook.com/profile.php?id=100068662721115" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%23E4405F?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> <a href="https://twitter.com/MarciaSimplic10" target="_blank"><img src="https://img.shields.io/badge/-twitter-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.twitch.tv/settings/profile" target="_blank"><img src="https://img.shields.io/badge/-twitch-%23E4405F?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -127,12 +162,15 @@ A tecnologia significa o mundo para mim, assim como a escrita, sem os quais não
 </div>
 
 <br>
+ <br>
+
 
 <div>
   <img  height="100%" width="100%" src="./images/Gif animado.gif">
 </div>
 
 <br>
+ <br>
 
 <div>
   <img height="100%" width="100%" src="./images/giphy-inteligencia-artificial.gif">
@@ -143,7 +181,9 @@ A tecnologia significa o mundo para mim, assim como a escrita, sem os quais não
 </div>
 
 <br>
-  
+ <br>
+
+
   <div style="display: inline">
     <img height="20%" width="20%" src="./images/caricatura-Márcia.png">   &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="20%" width="20%" src="./images/Ubuntu.jpg"> 
   </div>
