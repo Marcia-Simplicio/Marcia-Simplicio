@@ -13,15 +13,21 @@ Antes de entrar na área de tecnologia, eu estava no telemarketing e especificam
 
 A tecnologia significa o mundo para mim, assim como a escrita, sem os quais não vivo.
 
-Descobrir lentamente meu potencial em desenvolvimento web foi mais do que uma surpresa para mim, pois pensei que seria mais fácil por causa da minha natureza resiliente e autodidata.
 
-Reiniciei meu cérebro várias vezes, apontando minhas deficiências na área e melhorando para ser um excelente profissional e agradeço minha determinação, persistência e perfeccionismo, principalmente em focar 10 vezes mais na stack na qual me identifico.
+ 🔭 Atualmente estou trabalhando em ...
 
-A tecnologia é mágica para mim e eu amo mágica.
+🌱 Atualmente estou aprendendo ...
 
-Achei que não poderia me apaixonar mais e aqui estou cada dia mais encantada.
+👯 Estou procurando colaborar em ...
 
-🔭Atualmente faço treinamento intensivo de Back-end com alguns projetos pessoais em andamento. Também estou em busca da minha primeira oportunidade na área como Desenvolvedora Back-end.
+🤔 Estou procurando ajuda com ...
+
+💬 Pergunte-me sobre ...
+
+
+⚡ Curiosidade: ...
+
+
 
 👩🏽‍🦱Pronomes: ela/dela
 
