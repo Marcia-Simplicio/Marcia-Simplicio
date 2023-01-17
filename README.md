@@ -20,15 +20,15 @@ A tecnologia significa o mundo para mim, assim como a escrita, sem os quais não
  
  <br>
 
-🌱 Atualmente estou  **fazendo treinamento de Node.js**
+🌱 Atualmente estou  **fazendo treinamento de Node.js com o Guia do Programador**
 
  <br>
 
-🔭 Atualmente estou  **fazendo treinamento de Inglês**
+🔭 Atualmente estou  **fazendo treinamento de Inglês do Mairo Vergara**
 
  <br>
 
-🌱 Atualmente estou  **no 1º período de Análise de Desenvolvimento de Sistemas**
+🌱 Atualmente estou  **no 1º período de Análise de Desenvolvimento de Sistemas na Unicessumar**
 
  <br>
 
@@ -45,7 +45,7 @@ A tecnologia significa o mundo para mim, assim como a escrita, sem os quais não
  <br>
 
 
-⚡ Curiosidade:  **Meu desejo é trabalhar com o back-end na nuvem (cloud) e surgiu uma oportunidade de fazer freela justamnente com o runtime que estou estudando, o node.js**
+⚡ Curiosidade:  **Meu desejo é trabalhar com o back-end na nuvem (cloud) e surgiu uma oportunidade de fazer freela justamnente com o runtime que estou estudando; o node.js**
 
  <br>
 
@@ -139,15 +139,6 @@ A tecnologia significa o mundo para mim, assim como a escrita, sem os quais não
 ---
 <br>
 
-<div>
-  <a href="https://github.com/Marcia-Simplicio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcia-Simplicio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcia-Simplicio&layout=compact&langs_count=16&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcia-Simplicio&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-  ---
-  <br>
 
    
 ![Snake animation](https://github.com/Marcia-Simplicio/Marcia-Simplicio/blob/output/github-contribution-grid-snake.svg) 
