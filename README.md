@@ -28,7 +28,7 @@ A tecnologia significa o mundo para mim, assim como a escrita, sem os quais não
 
  <br>
 
-🌱 Atualmente estou  **no 1º período de Análise de Desenvolvimento de Sistemas na Unicessumar**
+🌱 Atualmente estou  **no 1º período de Análise de Desenvolvimento e Sistemas na Unicessumar**
 
  <br>
 
