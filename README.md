@@ -156,28 +156,8 @@ A tecnologia significa o mundo para mim, assim como a escrita, sem os quais não
  <br>
 
 
-<div>
-  <img  height="100%" width="100%" src="./images/Gif animado.gif">
-</div>
+![image](https://github.com/Marcia-Simplicio/Marcia-Simplicio/assets/71258083/69eae26b-b259-4612-a195-7f7448e12441)
 
-<br>
- <br>
-
-<div>
-  <img height="100%" width="100%" src="./images/giphy-inteligencia-artificial.gif">
-</div>
-
-  <div>
-  <img  height="100%" width="100%" src="./images/hmm.gif">
-</div>
-
-<br>
- <br>
-
-
-  <div style="display: inline">
-    <img height="20%" width="20%" src="./images/caricatura-Márcia.png">   &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="20%" width="20%" src="./images/Ubuntu.jpg"> 
-  </div>
 
 
 
