@@ -56,13 +56,22 @@ Procuro colaborar em  **projetos open source ligados ao back-end para pegar mais
  <br>
 
            
- ## * [Estudar](https://placehold.it/15/#000080/000000?text=+)
+ ## * [Estudando](https://placehold.it/15/#000080/000000?text=+)
+  <div style="display: inline_block"><br> 
+   <img align="center" alt="LINUX" height="30" width="40" src="images/notion-linux.png">
+   <img align="center" alt="AWS" height="30" width="40" src="images/AWS.png">
+</div>
  LINUX CLOUD AWS
 
 <br>
 
  ## * [Pretendo Estudar](https://placehold.it/15/#000080/000000?text=+)
- JAVA C# DOCKER 
+ <div style="display: inline_block"><br> 
+   <img align="center" alt="Java" height="30" width="40" src="images/java.png">
+   <img align="center" alt="C#" height="30" width="40" src="images/C#.png">
+   <img align="center" alt="Docker" height="30" width="40" src="images/docker.png">
+
+</div>
 
 <br>
 
