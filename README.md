@@ -23,7 +23,7 @@ No meu tempo livre, curto uma boa leitura, filmes e séries de suspenses, terror
 
 <br>
 
-Atualmente faço o curso da **ESCOLA DA NUVEM* para me especializar em Cloud AWS, onde tem toda a preparação para o exame de certificação Cloud Pratitioner.
+Atualmente faço o curso da   *ESCOLA DA NUVEM*  para me especializar em Cloud AWS, onde tem toda a preparação para o exame de certificação Cloud Pratitioner.
 
 Procuro colaborar em  **projetos open source ligados ao back-end para pegar mais experiência**
 
