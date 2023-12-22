@@ -9,30 +9,23 @@ Meu nome é Márcia Simplício, sou brasileira, moro no Estado do Rio de Janeiro
 
 No meu tempo livre adoro ler sobre tudo e escrever meus romances.
 
-Antes de entrar na área de tecnologia, eu estava no telemarketing e especificamente, desde 1995, quando tive contato com um desktop pela primeira vez, me apaixonei e desde então, nunca mais parei de mexer.
+Me apaixonei por tecnologia no ano de 1995, quando tive contato com um desktop pela primeira vez e, desde então, nunca mais parei de mexer. 
 
-A tecnologia significa o mundo para mim, assim como a escrita, sem os quais não vivo.
+A tecnologia significa o mundo para mim, assim como a escrita, que é uma outra paicão, sem os quais não vivo.
 
- <br>
+Sou uma Desenvolvedora Front-end com experiência em Html5, Css3, React.js, TypeScript, Javascript e Node.js.
 
+Atualmente trabalho como audiencista no Fórum Regional do Méier, da minha cidade.
 
- 🔭 Atualmente estou  **fazendo freela na empresa Save In Cloud**
- 
- <br>
+Desejo me tornar uma desenvolvedora especialista em Back-end dentro da Nuvem da Amazon Web Services (AWS).
 
-🌱 Atualmente estou  **fazendo treinamento de Node.js com o Guia do Programador**
+No meu tempo livre, curto uma boa leitura, filmes e séries de suspenses, terror e drama.
 
- <br>
+<br>
 
-🔭 Atualmente estou  **fazendo treinamento de Inglês do Mairo Vergara**
+Atualmente faço o curso da **ESCOLA DA NUVEM* para me especializar em Cloud AWS, onde tem toda a preparação para o exame de certificação Cloud Pratitioner.
 
- <br>
-
-🌱 Atualmente estou  **no 1º período de Análise e Desenvolvimento de Sistemas na Unicessumar**
-
- <br>
-
-👯 Estou procurando colaborar em  **projetos open source ligados ao back-end para pegar mais experiência**
+Procuro colaborar em  **projetos open source ligados ao back-end para pegar mais experiência**
 
  <br>
 
@@ -45,46 +38,12 @@ A tecnologia significa o mundo para mim, assim como a escrita, sem os quais não
  <br>
 
 
-⚡ Curiosidade:  **Meu desejo é trabalhar com o back-end na nuvem (cloud) e surgiu uma oportunidade de fazer freela justamnente com o runtime que estou estudando; o node.js**
-
- <br>
-
-
 👩🏽‍🦱Pronomes: ela/dela
 
 
  <br>
-
-
- ## * [Freelas](https://placehold.it/15/#000080/000000?text=+) 
- 
+ ## * [Habilidades](https://placehold.it/15/#000080/000000?text=+) 
  <div style="display: inline_block"><br> 
-    <img align="center" height="6%" width="6%" src="images/Codivas.jpg"> 
-    <img align="center" height="16%" width="16%" src="https://user-images.githubusercontent.com/71258083/208176236-2f70340c-2ee5-48a7-a57d-94bfee606e5f.png">
-  </div>
-
- <br>
- 
- ---
- 
- <br>
-
- 
- ## * [IDE](https://placehold.it/15/#000080/000000?text=+)
-
-<div>
-<img align="center" src="images/visual.jpg" alt="Visual Studio Code" height="30" width="40">
-</div>
-
-<br>
-
----
-
-<br>
-
-
- ## * [Technologies](https://placehold.it/15/#000080/000000?text=+)
-<div style="display: inline_block"><br> 
    <img align="center" alt="HTML" height="30" width="40" src="images/notion-html2.png">
    <img align="center" alt="CSS" height="30" width="40" src="images/Css.png">
    <img align="center" alt="JavaScript" height="30" width="40" src="images/notion-javascript2.png">
@@ -93,15 +52,23 @@ A tecnologia significa o mundo para mim, assim como a escrita, sem os quais não
    <img align="center" src="images/Mysql.png" alt="Mysql" height="30" width="40">  
 </div>
 
+ <br>
+
+           
+ ## * [Estudar](https://placehold.it/15/#000080/000000?text=+)
+ LINUX CLOUD AWS
+
 <br>
 
-  ---
-  
+ ## * [Pretendo Estudar](https://placehold.it/15/#000080/000000?text=+)
+ JAVA C# DOCKER 
+
 <br>
 
-
- ## * [Tools](https://placehold.it/15/#000080/000000?text=+)
+ ## * [Ferramentas e IDEs](https://placehold.it/15/#000080/000000?text=+)
+<div>
 <div style="display: inline_block">
+   <img align="center" src="images/visual.jpg" alt="Visual Studio Code" height="30" width="40">
    <img align="center" src="images/gitbash.png" alt="Gitbash" height="30" width="40">
    <img align="center" src="images/notion-github3.png" alt="GitHub" height="30" width="40">
    <img align="center" src="images/slack.png" alt="Slack" height="30" width="40">
@@ -114,14 +81,9 @@ A tecnologia significa o mundo para mim, assim como a escrita, sem os quais não
    <img align="center" src="images/metodologia agil.png" alt="Metodologias ágeis" height="30" width="40">
 </div>
 
-
 <br>
 
----
-
-<br>
-
-
+  
  ## * [Where To Find Me](https://placehold.it/15/#000080/000000?text=+)
  
 <div style="display: inline_block"> 
@@ -130,13 +92,24 @@ A tecnologia significa o mundo para mim, assim como a escrita, sem os quais não
 <a href = "mailto:marcia39.simplicio@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href = "mailto:marcia39.simplicio@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
  </div>
 
-
-
-  ---
 <br>
 
 
+ ## * [Freelas](https://placehold.it/15/#000080/000000?text=+) 
+ 
+ <div style="display: inline_block"><br> 
+    <img align="center" height="6%" width="6%" src="images/Codivas.jpg"> 
+  </div>
+
+ <br>
+ 
+ ---
+ 
+ <br>
+
+ 
 ---
+
 <br>
 
 
