@@ -42,7 +42,8 @@ Procuro colaborar em  **projetos open source ligados ao back-end para pegar mais
 
 
  <br>
- ## * [Habilidades](https://placehold.it/15/#000080/000000?text=+) 
+
+  ## * [Habilidades](https://placehold.it/15/#000080/000000?text=+)
  <div style="display: inline_block"><br> 
    <img align="center" alt="HTML" height="30" width="40" src="images/notion-html2.png">
    <img align="center" alt="CSS" height="30" width="40" src="images/Css.png">
