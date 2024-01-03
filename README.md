@@ -123,9 +123,9 @@ Procuro colaborar em  **projetos open source ligados ao back-end para pegar mais
 <br>
 
 
-   
+
 ![Snake animation](https://github.com/Marcia-Simplicio/Marcia-Simplicio/blob/output/github-contribution-grid-snake.svg) 
-</div>
+
 <br>
 
 ---
