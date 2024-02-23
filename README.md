@@ -1,7 +1,7 @@
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
 # **WELCOME, I'M MÁRCIA SIMPLÍCIO - DEVELOPER BACK-END**
 
-<img src="./images/Backgroun-Back.png" width="2000" height="200">
+![image](https://github.com/Marcia-Simplicio/Marcia-Simplicio/assets/71258083/6a3e5363-24de-4067-93a6-c704ba7c9f4c) 
 
 ## * [About Me](https://placehold.it/15/#000080/000000?text=+)
 
@@ -123,13 +123,6 @@ Procuro colaborar em  **projetos open source ligados ao back-end para pegar mais
 <br>
 
 
-
-![Snake animation](https://github.com/Marcia-Simplicio/Marcia-Simplicio/blob/output/github-contribution-grid-snake.svg) 
-
-<br>
-
----
-<br>
 
 <div>
   <img  height="100%" width="100%" src="./images/notion-backend2.jpeg">
