@@ -1,5 +1,5 @@
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
-# **WELCOME, I'M MÁRCIA SIMPLÍCIO - CLOUD AWS DEVELOPER**
+# **WELCOME, I'M MÁRCIA SIMPLÍCIO - AWS DEVELOPER ASSOCIATE**
 
 ![image](https://github.com/Marcia-Simplicio/Marcia-Simplicio/assets/71258083/6a3e5363-24de-4067-93a6-c704ba7c9f4c) 
 
